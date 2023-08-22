@@ -1,0 +1,5 @@
+streamlit==1.25.0
+skikit-learn==1.2.2
+numpy==1.22.3
+pandas==2.0.3
+
